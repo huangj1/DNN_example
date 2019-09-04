@@ -1,0 +1,6 @@
+﻿2019-4-3  --HJ
+Lenet-5神经网络模型：input_28x28x1->conv32_5x5->conv64_5x5->fc_512->fc_10
+应用于mnist手写数字数据集
+train.py训练
+valuation.py评估准确率
+freeze_graph.py将ckpt格式转化为pb格式
